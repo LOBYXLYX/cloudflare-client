@@ -64,7 +64,7 @@ function fi(d) { // Cloudflare Code~~
     return undefined;
 }
 
-const cf_client = (flowUrl, cfChallenge, cRay, flowToken) => { // Cloudflare Clie1nt (deobfuscated and modified)
+const cf_client = (flowUrl, cfChallenge, cRay, flowToken) => { // Cloudflare Client (deobfuscated and modified)
     const h = () => undefined;
     const idk5 = (l,m) => {
         return l + m;
